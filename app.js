@@ -4,14 +4,14 @@
 ///Edit Under This only
 
  const firebaseConfig = {
-  apiKey: "AIzaSyCYxs9x8xQWlyPPtHRf8hag8nTKCl-2ia4",
-  authDomain: "hacking-48c5b.firebaseapp.com",
-  databaseURL: "https://hacking-48c5b.firebaseio.com",
-  projectId: "hacking-48c5b",
-  storageBucket: "hacking-48c5b.appspot.com",
-  messagingSenderId: "590282575068",
-  appId: "1:590282575068:web:3e77b80afd6738bc15f819",
-  measurementId: "G-3XC3NFHYFV"
+  apiKey: "AIzaSyABdtuUw34AC2Ohk8rtn32gmvIhUpV6N_o",
+  authDomain: "hacking-2fcc4.firebaseapp.com",
+  databaseURL: "https://hacking-2fcc4.firebaseio.com",
+  projectId: "hacking-2fcc4",
+  storageBucket: "hacking-2fcc4.appspot.com",
+  messagingSenderId: "406621589768",
+  appId: "1:406621589768:web:1610e441f565e74f945cbd",
+  measurementId: "G-B8L55LQ7E7"
 };
 
 
